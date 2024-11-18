@@ -1,4 +1,4 @@
-**Healthcare Data Integration Platform**
+# Healthcare Data Integration Platform
 
 **Project Overview**
 
