@@ -100,7 +100,7 @@ Healthcare-Data-Integration-Platform/
 
 ## **Getting Started**
 
-**Prerequisites**
+### **Prerequisites**
 
 - **Python** (3.10 or above)
 
@@ -112,7 +112,7 @@ Healthcare-Data-Integration-Platform/
 
 - **Azure Account** (for cloud services)
 
-**Installation**
+### **Installation**
 
 1.  **Clone the Repository**:
 
@@ -159,17 +159,17 @@ Healthcare-Data-Integration-Platform/
 >
 > docker-compose up -d
 
-**Contributing**
+## **Contributing**
 
 Contributions are welcome! Please submit a pull request or open an issue
 if you have suggestions for improving the project.
 
-**License**
+## **License**
 
 This project is licensed under the MIT License - see the LICENSE file
 for details.
 
-**Contact**
+## **Contact**
 
 For any inquiries, please reach out to:
 
