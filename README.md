@@ -96,7 +96,7 @@ Healthcare-Data-Integration-Platform/
 │   ├── integration/
 ├── README.md
 └── requirements.txt
-
+```
 
 ## **Getting Started**
 
