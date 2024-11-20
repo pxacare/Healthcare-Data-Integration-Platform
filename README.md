@@ -132,23 +132,17 @@ pip install -r requirements.txt
 
     - Create a .env file in the config directory with the following:
 
-> makefile
->
-> Copy code
->
-> AZURE_STORAGE_ACCOUNT_NAME=your_storage_account
->
-> AZURE_STORAGE_ACCOUNT_KEY=your_storage_key
->
-> KAFKA_BROKER_URL=localhost:9092
+```
+AZURE_STORAGE_ACCOUNT_NAME=your_storage_account
+AZURE_STORAGE_ACCOUNT_KEY=your_storage_key
+KAFKA_BROKER_URL=localhost:9092
+```
 
 4.  **Run Docker Compose**:
 
-> bash
->
-> Copy code
->
-> docker-compose up -d
+```
+docker-compose up -d
+```
 
 ## **Contributing**
 
