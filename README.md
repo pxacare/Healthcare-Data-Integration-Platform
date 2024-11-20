@@ -115,15 +115,8 @@ Healthcare-Data-Integration-Platform/
 ### **Installation**
 
 1.  **Clone the Repository**:
-```
-> bash
->
-> Copy code
->
-> git clone
-> https://github.com/yourusername/Healthcare-Data-Integration-Platform.git
->
-> cd Healthcare-Data-Integration-Platform```
+```git clone https://github.com/yourusername/Healthcare-Data-Integration-Platform.git
+cd Healthcare-Data-Integration-Platform```
 
 2.  **Set Up Python Virtual Environment**:
 
