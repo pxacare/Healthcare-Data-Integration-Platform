@@ -1,4 +1,4 @@
-# **Healthcare Data Integration Platform**
+ # **Healthcare Data Integration Platform**
 
 ## **Project Overview**
 The **Healthcare Data Integration Platform** is a scalable solution designed to handle large volumes of healthcare data, integrating multiple data sources, and processing both real-time and batch data. The platform ingests, processes, and analyzes healthcare data in FHIR (Fast Healthcare Interoperability Resources) format, enabling seamless data integration and advanced analytics for improved healthcare outcomes.
@@ -115,20 +115,18 @@ Healthcare-Data-Integration-Platform/
 ### **Installation**
 
 1.  **Clone the Repository**:
-```git clone https://github.com/yourusername/Healthcare-Data-Integration-Platform.git
-cd Healthcare-Data-Integration-Platform```
+```
+git clone https://github.com/yourusername/Healthcare-Data-Integration-Platform.git
+cd Healthcare-Data-Integration-Platform
+```
 
 2.  **Set Up Python Virtual Environment**:
 
-> bash
->
-> Copy code
->
-> python3 -m venv venv
->
-> source venv/bin/activate
->
-> pip install -r requirements.txt
+```
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
 
 3.  **Set Up Environment Variables**:
 
